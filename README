@@ -1,0 +1,21 @@
+# Practica6
+* pruebas unitarias en mocha y coverage con la libreria nyc
+* practica#4 con el Versionamiento SEMVER
+* Github: https://github.com/Andreu2501/SA_Practica3/tree/Practica4
+## Practica#6
+* Pruebas unitarias utilizando mocha
+* realizar coverage, se utilizo la libreria nyc
+* Configurar Sonarqube para que ejecute las pruebas y que calcule la cobertura de pruebas unitarias.
+
+# Requerimientos
+* Instalar nodejs
+* Instalar visual studio code
+* npm i mocha
+* npm i nyc
+
+
+# Ejecución de programa
+* npm test
+
+# Autor
+* Andrea Flores 201314241
